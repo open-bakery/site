@@ -1,0 +1,13 @@
+html, body {
+    height: 100vh;
+}
+
+body {
+    display: grid;
+    background-color: #E61725;
+}
+
+.logo {
+    align-self: center;
+    justify-self: center;
+}
